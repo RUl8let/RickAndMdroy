@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="info">Info</string>
+
+    <string name="error">Error</string>
+    <string name="load">Load</string>
+    <string name="retry">Retry</string>
+
+    <string name="unknown">unknown</string>
+    <string name="episode">Episode: %s</string>
+
+    <string name="type">"Type: %s"</string>
+    <string name="status">"Status: %s"</string>
+    <string name="species">"Species: %s"</string>
+    <string name="gender">"Gender: %s"</string>
+</resources>
